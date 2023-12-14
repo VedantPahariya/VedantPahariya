@@ -4,7 +4,7 @@ I’m interested in contributing some open source projects.
 For that, I’m currently learning web development and DSA.
 - 📫 How to reach me —>
 <p>
-  <a href="https://in.linkedin.com/in/vedant-pahariya-20b160287" rel="nofollow noreferrer">
+  <a href="https://in.linkedin.com/in/vedant-pahariya" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/VedantPahariya" rel="nofollow noreferrer">
