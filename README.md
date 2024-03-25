@@ -1,4 +1,4 @@
-Hello, My name is Vedant Pahariya. I am a first year student and pursing my B. Tech + MS by Research in field of "Electronics and Communication" from IIIT Hyderabad. 
+Hello, My name is Vedant Pahariya. I am a first year student and pursuing my B. Tech + MS by Research in field of "Electronics and Communication" from IIIT Hyderabad. 
 Coding is also a integral part of our curriculum.
 I’m interested in contributing some open source projects.
 For that, I’m currently learning web development and DSA.
