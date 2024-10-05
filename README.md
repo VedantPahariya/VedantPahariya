@@ -3,8 +3,8 @@ I’m interested in contributing some open source projects.
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/vedant-pahariya)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/VedantPahariya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/vedant-pahariya) &nbsp;
+ [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/VedantPahariya)
 
 <!---
 VedantPahariya/VedantPahariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
