@@ -1,5 +1,15 @@
-Hello, My name is Vedant Pahariya. I am a third year student and pursuing my B. Tech + MS by Research in field of "Electronics and Communication" from IIIT Hyderabad. 
-I’m interested in contributing some open source projects.
+## 👋Hello, I'm Vedant Pahariya  
+
+I am a third-year B.Tech + MS by Research student in Electronics and Communication at IIIT Hyderabad. 
+
+## Current Work
+I am currently working in the domain of Computer Systems Architecture, exploring:  
+- RISC-V based processors
+- Vector accelerators (Ara + CVA6)
+- Multicore SoC design and benchmarking
+- Chipyard & other RISC-V SoC frameworks
+ 
+Currently, I am experimenting with multicore setups for performance analysis and actively looking for opportunities to contribute to open source projects in these domains.
 
 ## 📫 How to reach me:
 
